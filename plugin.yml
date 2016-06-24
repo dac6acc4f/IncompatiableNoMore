@@ -1,0 +1,6 @@
+name: IncompatiableNoMore
+version: 1.0.0
+api: [2.0.0]
+author: JacobTian
+description: An PocketMine MP plugin for automatically update the API version info of other plugins.
+
